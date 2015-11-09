@@ -2,17 +2,17 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "ar.edu.unt.cedite.facetvirtualmobile"
+        id        = "com.moodle.moodlemobile"
         versionCode = "2006"
         version   = "2.5">
-    <name>FACETVirtual.Mobile</name>
+    <name>Moodle Mobile</name>
 
     <description>
-        App oficial de FACETVirtual
+        Moodle Mobile official app
     </description>
 
-    <author href="http://www.cedite.unt.edu.ar" email="tjt1132@herrera.unt.edu.ar">
-        Ticiano Torres Peralta
+    <author href="http://moodle.com" email="mobile@moodle.com">
+        Moodle Pty Ltd
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
