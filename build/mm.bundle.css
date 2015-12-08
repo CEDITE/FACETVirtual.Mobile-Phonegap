@@ -8151,3 +8151,9 @@ select.mma-mod_survey-select {
 .button.active, .button.activated {
   box-shadow: none;
   color: #fff; }
+
+.bar-side-menu {
+  background-color: #328dc4; }
+
+.bar-content {
+  background-color: #328dc4; }

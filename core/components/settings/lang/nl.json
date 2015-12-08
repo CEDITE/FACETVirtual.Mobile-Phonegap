@@ -1,6 +1,6 @@
 {
     "about": "Over",
-    "appname": "FACETVirtual Mobile {{version}}",
+    "appname": "Moodle Mobile {{version}}",
     "appready": "App klaar.",
     "cacheexpirationtime": "Cache verlooptijd (milliseconden)",
     "cordovadevicemodel": "Cordova Device model",

@@ -1,6 +1,6 @@
 {
     "about": "À propos",
-    "appname": "FACETVirtual Mobile {{version}}",
+    "appname": "Moodle Mobile {{version}}",
     "cacheexpirationtime": "Durée d'échéance du cache (ms)",
     "cordovadevicemodel": "Modèle Cordova Device",
     "cordovadeviceosversion": "Version OS Cordova Device",
