@@ -5,14 +5,14 @@
         id        = "ar.edu.unt.cedite.facetvirtualmobile"
         versionCode = "2007"
         version   = "2.6">
-    <name>FACETVirtual.Mobile</name>
+    <name>FACETVirtual</name>
 
     <description>
-        App oficial de FACETVirtual
+        App oficial de FACETVirtual.
     </description>
 
-    <author href="http://www.cedite.unt.edu.ar" email="tjt1132@herrera.unt.edu.ar">
-        Ticiano Torres Peralta
+    <author href="http://www.cedite.unt.edu.ar" email="cedite.soportec@gmail.com">
+        CEDITE
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
